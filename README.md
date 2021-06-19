@@ -13,3 +13,5 @@ There are 2 pages in this project.
 
 ## App Video
 
+https://user-images.githubusercontent.com/46047252/122654655-93fa1e80-d155-11eb-835e-186dc4c7ae5f.mp4
+
