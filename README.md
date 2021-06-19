@@ -13,4 +13,3 @@ There are 2 pages in this project.
 
 ## App Video
 
-![flutter_user_list_video](https://user-images.githubusercontent.com/46047252/122654519-ba6b8a00-d154-11eb-9855-139b34624793.gif)
